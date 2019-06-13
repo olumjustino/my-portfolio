@@ -1,0 +1,14 @@
+{
+  "name": "just_portfoli",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dis/css/ --recursive"
+  },
+  "author": "Justin Olum",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
